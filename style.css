@@ -120,6 +120,7 @@ i{
 .options {
     display:flex;
     gap:10px;
+    cursor: pointer;
 }
 
 #explore{
@@ -227,6 +228,7 @@ i{
     height:70%;
     display:flex;
     flex-wrap:wrap;
+    cursor: pointer;
 }
 
 .section{
@@ -235,6 +237,7 @@ i{
 
 .section .sp{
     opacity:0.7;
+    cursor: pointer;
 }
 
 .icons{
@@ -251,6 +254,7 @@ i{
     border-radius:50%;
     line-height:50px;
     text-align:center;
+    cursor: pointer;
 }
 
 .footer{
@@ -277,6 +281,7 @@ i{
     margin-left:15px;
     font-size:15px;
     text-align:start;
+    cursor: pointer;
 }
 
 .library-option {
